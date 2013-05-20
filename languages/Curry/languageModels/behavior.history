@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="j7ed" modelUID="r:ef29a76e-aef0-4269-8ef0-08aa74ef2f98(mbeddr.samples.CurryLang.typesystem)" version="-1" />
+      <model index="h3qb" modelUID="r:572890cd-ac1f-4589-b431-fa87138b66e0(mbeddr.samples.CurryLang.editor)" version="-1" />
+      <model index="za64" modelUID="r:74104abb-6afa-4de7-a2b2-33ae0b32bcce(mbeddr.samples.CurryLang.structure)" version="-1" />
+      <model index="gn0t" modelUID="r:0a769d99-c42b-4d14-818f-23cceb051acc(mbeddr.samples.CurryLang.constraints)" version="-1" />
+      <model index="fimp" modelUID="r:47d13ab0-d3cf-4d10-84ee-f3ad7986cd1c(mbeddr.samples.CurryLang.behavior)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:0a769d99-c42b-4d14-818f-23cceb051acc(mbeddr.samples.CurryLang.constraints)" newModel="r:0a769d99-c42b-4d14-818f-23cceb051acc(mbeddr.samples.CurryLang.constraints)" />
+    <RenameModel oldModel="r:47d13ab0-d3cf-4d10-84ee-f3ad7986cd1c(mbeddr.samples.CurryLang.behavior)" newModel="r:47d13ab0-d3cf-4d10-84ee-f3ad7986cd1c(mbeddr.samples.CurryLang.behavior)" />
+    <RenameModel oldModel="r:572890cd-ac1f-4589-b431-fa87138b66e0(mbeddr.samples.CurryLang.editor)" newModel="r:572890cd-ac1f-4589-b431-fa87138b66e0(mbeddr.samples.CurryLang.editor)" />
+    <RenameModel oldModel="r:74104abb-6afa-4de7-a2b2-33ae0b32bcce(mbeddr.samples.CurryLang.structure)" newModel="r:74104abb-6afa-4de7-a2b2-33ae0b32bcce(mbeddr.samples.CurryLang.structure)" />
+    <RenameModel oldModel="r:ef29a76e-aef0-4269-8ef0-08aa74ef2f98(mbeddr.samples.CurryLang.typesystem)" newModel="r:ef29a76e-aef0-4269-8ef0-08aa74ef2f98(mbeddr.samples.CurryLang.typesystem)" />
+  </StructureModification>
+</history>
+
